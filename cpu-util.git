@@ -1,0 +1,1 @@
+stress --cpu 4 --timeout 300    #Utilizes 4 CPU cores and runs the stress test for 300 seconds (5 minutes)
